@@ -1,0 +1,3 @@
+[submodule "themes/theme_backup"]
+	path = themes/theme_backup
+	url = https://github.com/letsplay2ya/theme_backup
